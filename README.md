@@ -5,13 +5,13 @@ Use your own TMDB API key in MoviesUtil.java
 
 ## Screens
 
-![screen](../master/art/1.jpeg)
+![screen](../master/art/1.jpeg) ![screen](../master/art/2.jpeg)
 
-![screen](../master/art/2.jpeg)
 
-![screen](../master/art/3.jpeg)
 
-![screen](../master/art/4.jpeg)
+![screen](../master/art/3.jpeg) ![screen](../master/art/4.jpeg)
+
+
 
 ![screen](../master/art/5.jpeg)
 
