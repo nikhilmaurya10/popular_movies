@@ -1,6 +1,8 @@
 # popular_movies
 Udacity Popular Movies Project
 
+Use your own TMDB API key in MoviesUtil.java
+
 ## Screens
 
 ![screen](../master/art/1.jpeg)
