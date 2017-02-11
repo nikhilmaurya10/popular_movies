@@ -1,0 +1,9 @@
+
+…squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(˜Ğ¸
+=squid:S1170"!Make this final field static too.(ÑÍãû8Ã¤Ó§Ÿ+
+Bsquid:S1170"!Make this final field static too.(¾ÉŒ½úÿÿÿÿ8áĞÎ§Ÿ+
+,squid:S2176"Rename this class.(Â×Öúÿÿÿÿ
+€"squid:ClassVariableVisibilityCheck"TMake mTrailer a static final constant or non-public and provide accessors if needed.(åäï¡
+hsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(â£œŸ
+‡squid:S1319"sThe type of the "trailers" object should be an interface such as "List" rather than the implementation "ArrayList".(©Ÿë
+ˆsquid:S1319"sThe type of the "trailers" object should be an interface such as "List" rather than the implementation "ArrayList".(›¢»Ê

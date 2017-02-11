@@ -1,0 +1,12 @@
+
+esquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ƒ³»ƒúÿÿÿÿ
+ƒsquid:S1151"iReduce this switch case number of lines from 9 to at most 5, for example by extracting code into methods.(Ô÷È•þÿÿÿÿ
+`squid:S1301"KReplace this "switch" statement by "if" statements to increase readability.( Å»í
+esquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ƒ³»ƒúÿÿÿÿ
+Gsquid:S1199"-Extract this nested code block into a method.(Ô÷È•þÿÿÿÿ
+[squid:S1226"FIntroduce a new variable instead of reusing the parameter "selection".(²üÑ™
+esquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ƒ³»ƒúÿÿÿÿ
+csquid:S1192"NDefine a constant instead of duplicating this literal "Unknown uri: " 5 times.(ÅÖš¨
+„squid:S1151"jReduce this switch case number of lines from 12 to at most 5, for example by extracting code into methods.(Ô÷È•þÿÿÿÿ
+Gsquid:S1199"-Extract this nested code block into a method.(Ô÷È•þÿÿÿÿ
+esquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ƒ³»ƒúÿÿÿÿ

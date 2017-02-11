@@ -1,0 +1,13 @@
+
+Qsquid:S2209"5Change this instance-reference to a static reference.(€Œå8Ø¯¶Ÿ+
+Asquid:S1166"%Either log or rethrow this exception.(”ı¾8È¹·´Ÿ+
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(øÏ‡È8˜»Ÿ+
+Ksquid:EmptyStatementUsageCheck"Remove this empty statement.(íĞ‹®8Ÿƒ´Ÿ+
+squid:S1488"cImmediately return this expression instead of assigning it to the temporary variable "shareIntent".(ÓòŠÃ8‰Ğ‘§Ÿ+
+nsquid:UselessImportCheck"@Remove this unused import 'android.support.annotation.Nullable'.(Ö‹øïüÿÿÿÿ8ÄŸÄ¶Ÿ+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²§ô²ùÿÿÿÿ8ëÄ¸Ÿ+
+Vsquid:S2209"5Change this instance-reference to a static reference.(òÔ†şÿÿÿÿ8É«¶Ÿ+
+Dsquid:S1185"(Remove this method to simply inherit it.(ËĞƒ8‰Ğ‘§Ÿ+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8È¹·´Ÿ+
+msquid:UselessImportCheck"DRemove this unused import 'android.view.inputmethod.CorrectionInfo'.(Óœï¶8–ÊÌ¸Ÿ+
+}squid:S1188"\Reduce this anonymous class number of lines from 34 to at most 20, or make it a named class.(ŠªêËşÿÿÿÿ8˜»Ÿ+

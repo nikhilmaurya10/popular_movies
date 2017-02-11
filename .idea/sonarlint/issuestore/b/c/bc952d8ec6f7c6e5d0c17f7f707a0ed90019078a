@@ -1,0 +1,11 @@
+
+’squid:S1319"qThe type of the "movies" object should be an interface such as "List" rather than the implementation "ArrayList".(ú…‹ÿÿÿÿÿ8¼€ø¦Ÿ+
+‰squid:S1319"tThe type of the "movieList" object should be an interface such as "List" rather than the implementation "ArrayList".(òóæ±
+osquid:S00122"TAt most one statement is allowed per line, but 2 statements were found on this line.(Æ’­Ÿùÿÿÿÿ
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(è—‡ÿÿÿÿÿ8´”‰°Ÿ+
+Gsquid:S1168"+Return an empty collection instead of null.(¥¹ï8¡âá®Ÿ+
+vsquid:S00122"TAt most one statement is allowed per line, but 2 statements were found on this line.(á©Äúÿÿÿÿ8“èß®Ÿ+
+’squid:S1319"qThe type of the "movies" object should be an interface such as "List" rather than the implementation "ArrayList".(µñšúÿÿÿÿ8¼€ø¦Ÿ+
+,squid:S2176"Rename this class.(Úª¸âùÿÿÿÿ
+[squid:UselessImportCheck"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8óğø¦Ÿ+
+‘squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(†ƒ¹Õûÿÿÿÿ8ÁŞŞ®Ÿ+

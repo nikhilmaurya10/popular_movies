@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="label">Popular Movies</string>
+    <string name="error_text">Something went wrong!\nPlease check your Internet.</string>
+    <string name="rating">Rating</string>
+    <string name="release_date">Release Date</string>
+    <string name="help">Help</string>
+    <string name="sort_popular">Popular</string>
+    <string name="sort_top_rated">Top Rated</string>
+
+    <string name="no_trailer">No Trailers yet!</string>
+    <string name="no_review">No Reviews yet!</string>
+    <string name="info_text_for_details">Select a movie to display it\'s details.</string>
+    <string name="button_on_text">Added to Favorites</string>
+    <string name="button_off_text">Removed from Favorites</string>
+    <string name="overview_label">Overview</string>
+    <string name="trailers_label">Trailers &amp; Videos</string>
+    <string name="reviews_label">Reviews</string>
+    <string name="no_favorite_text">No Favorites yet!\n\t\tGo add some.</string>
+    <string name="favorites_label">Favorites</string>
+    <string name="offline_label">Can\'t connect to Internet. Browsing Offline</string>
+    <string name="help_menu_text">Udacity Nanodegree Project. Contact nikhilmaurya10@gmail.com for more details and/or feedback</string>
+
+
+</resources>

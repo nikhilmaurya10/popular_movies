@@ -1,0 +1,28 @@
+
+=squid:S1170"!Make this final field static too.(î¤ÿ¨8Üª…+
+Msquid:S1213"8Move this variable to comply with Java Code Conventions.(¯ø¥
+msquid:S00116"WRename this field "release_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹›ºì
+Tsquid:S1213"8Move this variable to comply with Java Code Conventions.(î¤ÿ¨8ë°™…+
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î°†‘úÿÿÿÿ
+qsquid:S00116"VRename this field "poster_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛçşÆùÿÿÿÿ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Úûø8äÎ…+
+Msquid:S1213"8Move this variable to comply with Java Code Conventions.(‹›ºì
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇıÆëûÿÿÿÿ
+Rsquid:S1213"8Move this variable to comply with Java Code Conventions.(ÛçşÆùÿÿÿÿ
+Rsquid:S1213"8Move this variable to comply with Java Code Conventions.(åõò¹ıÿÿÿÿ
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î°†‘úÿÿÿÿ
+Rsquid:S1213"8Move this variable to comply with Java Code Conventions.(ôç¼Óşÿÿÿÿ
+usquid:S00116"XRename this field "backdrop_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ŠÏŒ8äÎ…+
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıì¹¸øÿÿÿÿ
+lsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù·–»
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Úûø8äÎ…+
+Rsquid:S1213"8Move this variable to comply with Java Code Conventions.(àç±üÿÿÿÿ
+msquid:S00116"WRename this field "vote_average" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ø¥
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıì¹¸øÿÿÿÿ
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù·–»
+Msquid:S1213"8Move this variable to comply with Java Code Conventions.(­ŠÏŒ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğç¢8äÎ…+
+=squid:S1170"!Make this final field static too.(äŒÌ8Ÿ•Ø…+
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñî¼øÿÿÿÿ
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Ñø­
+Tsquid:S1213"8Move this variable to comply with Java Code Conventions.(äŒÌ8Ÿ•Ø…+

@@ -1,0 +1,7 @@
+
+†squid:S1319"rThe type of the "reviews" object should be an interface such as "List" rather than the implementation "ArrayList".(Ç¡A
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Ã©ê×ıÿÿÿÿ
+Œsquid:S1319"rThe type of the "reviews" object should be an interface such as "List" rather than the implementation "ArrayList".(°­½øÿÿÿÿ
+Šsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(”´¡¸şÿÿÿÿ
+,squid:S2176"Rename this class.(Â×Öúÿÿÿÿ
+„"squid:ClassVariableVisibilityCheck"SMake mReview a static final constant or non-public and provide accessors if needed.(ŸÓöŞıÿÿÿÿ

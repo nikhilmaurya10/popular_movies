@@ -1,0 +1,12 @@
+
+‚squid:S1450"fRemove the "mStaggeredLayoutManager" field and declare it as a local variable in the relevant methods.(´ºÌê8ìÔ×æž+
+xsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü”Ô‹ûÿÿÿÿ8±Ýô«Ÿ+
+isquid:S1192"HDefine a constant instead of duplicating this literal "popular" 3 times.(Û¹Åøÿÿÿÿÿ8ñØÅìž+
+Ksquid:S1068"0Remove this unused "TAG_FRAGMENT" private field.(úö¹#8Ï¨Ñåž+
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(«ÃÀ÷8åìÙ¯Ÿ+
+Psquid:S1066"/Merge this if statement with the enclosing one.(«¢Œúÿÿÿÿ8±Ýô«Ÿ+
+zsquid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "cursor".(öÜ¸ê8ãõ’®Ÿ+
+xsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü–Å ýÿÿÿÿ8ãÌ¾ìž+
+hsquid:S1871"LThis branch's code block is the same as the block for the branch on line 93.(å¥ž‡8ìÔ×æž+
+Ysquid:S1155">Use isEmpty() to check whether the collection is empty or not.(Ò¡Æ8¢‰ä®Ÿ+
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò‰äÄ8ëÀž”Ÿ+
